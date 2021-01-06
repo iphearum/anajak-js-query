@@ -1,7 +1,7 @@
 {
-  "name": "@anajak/query",
-  "version": "1.0.2",
-  "description": "",
+  "name": "@iphearum/js-query",
+  "version": "1.0.0",
+  "description": "javascript query",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
