@@ -1,15 +1,19 @@
 {
-  "name": "@iphearum/js-query",
+  "name": "@anajak/js-query",
   "version": "1.0.0",
   "description": "javascript query",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iphearum/anajak-js-query.git"
+    "url": "git+ssh://git@github.com/iphearum/anajak-js-query.git"
   },
+  "keywords": [
+    "js",
+    "query"
+  ],
   "author": "iphearum",
   "license": "ISC",
   "bugs": {

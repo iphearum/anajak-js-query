@@ -1,1 +1,1 @@
-var _ = require('lodash')
+require('./src/app')
