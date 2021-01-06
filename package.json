@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iphearum/anajak-js-query/issues"
   },
-  "homepage": "https://github.com/iphearum/anajak-js-query#readme"
+  "homepage": "https://github.com/iphearum/anajak-js-query#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
