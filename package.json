@@ -1,0 +1,19 @@
+{
+  "name": "@anajak/query",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iphearum/anajak-js-query.git"
+  },
+  "author": "iphearum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iphearum/anajak-js-query/issues"
+  },
+  "homepage": "https://github.com/iphearum/anajak-js-query#readme"
+}
